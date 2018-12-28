@@ -1,2 +1,2 @@
-email = "diegobanol.udea@gmail.com"
-password = "testmeetup"
+email = "YourFacebookEmail"
+password = "YourFacebookPassword"
