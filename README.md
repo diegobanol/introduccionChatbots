@@ -28,4 +28,4 @@
 
 ### Dependencias necesarias:
 
-- Instalar mediante Pip fbchat, y apiai
+- Instalar mediante Pip fbchat, pyowm y apiai
